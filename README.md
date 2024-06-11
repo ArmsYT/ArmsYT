@@ -15,20 +15,19 @@
 
 <br>
 
-<div align="center">
-    <a href="https://github.com/ArmsYT" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://twitter.com/@ArmsOffi" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/arms_offi" target="_blank">
-        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.youtube.com/user/UCbVbjaeMvzbEyJAHjr9SaXg" target="_blank">
-        <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-    </a>  
-</div>  
+<div align="center" width="33%">
+    <div align="center">  
+        <a href="https://www.thearms.fr" target="_blank"><img src="https://www.thearms.fr/container/images/logo_arms.jpg" alt="The Arms" height="50" title="thearms.fr"></a>
+        <a href="https://www.youtube.com/channel/UCbVbjaeMvzbEyJAHjr9SaXg" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Principal" height="50" title="YouTube Principal" /></a>
+        <a href="https://www.youtube.com/channel/UCDpdtQ9erzenYU7igBmJ4BQ" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Secondaire" height="50" title="YouTube Secondaire" /></a>
+        <a href="https://www.twitch.tv/The_Arms" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=256&id=7qFfaszJSlTs&format=png" alt="Twitch" height="50" title="Twitch" /></a>
+        <a href="https://www.instagram.com/Arms_Offi/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=256&id=32323&format=png" alt="Instagram" height="50" title="Instagram" /></a>
+        <a href="https://www.tiktok.com/@the_arms" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=256&id=118640&format=png" alt="Tik Tok" height="50" title="Tik Tok" /></a>
+        <a href="https://steamcommunity.com/id/TheArms/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=256&id=62yTna5C9Gw6&format=png" alt="Steam" height="50" title="Steam" /></a>
+        <a href="https://www.reddit.com/user/armsbg/?rdt=59594" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=256&id=5RTQxy0E0NUY&format=png" alt="Reddit" height="50" title="Reddit" /></a>
+        <a href="https://www.gog.com/u/The_Arms" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=256&id=BCQohzdxiaSL&format=png" alt="GOG Galaxy" height="50" title="GOG Galaxy" /></a>
+    </div>
+</div>
 
 <br>
 
