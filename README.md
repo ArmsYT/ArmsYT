@@ -9,7 +9,7 @@
 
 ## 💬 Contact
 
-📧 Pro ou collab : *armsnoisete@gmail.com*
+📧 Pro ou collab : *armsgfx@gmail.com*
 
 
 ---
