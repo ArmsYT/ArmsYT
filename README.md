@@ -42,7 +42,7 @@
 ## 🌐 Réseaux sociaux
 
 <div align="left">
-    <a href="https://www.thearms.fr" target="_blank"><img src="https://www.thearms.fr/file/arms" alt="The Arms" height="50"/></a>
+    <a href="https://www.thearms.fr" target="_blank"><img src="https://www.thearms.fr/file/logo/arms" alt="The Arms" height="50"/></a>
     <a href="https://www.youtube.com//@The_Arms" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Principal" height="50"/></a>
     <a href="https://www.youtube.com//@The_Arms2" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Secondaire" height="50"/></a>
     <a href="https://www.youtube.com/@The_Arms3" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Secondaire" height="50"/></a>
