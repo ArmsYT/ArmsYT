@@ -1,15 +1,19 @@
 <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=ArmsYT&&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=ArmsYT&&style=flat-square&color=red" />
     <a href="https://paypal.me/armsonyt" target="_blank">
         <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"/>
     </a>
+</div>
+
+<div align="center">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@ArmsYT?name=ArmsYT&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 </div>
 
 ---
 
 ## 💬 Contact
 
-📧 Pro ou collab : *armsnoisete@gmail.com*
+📧 Pro ou collab : *armsgfx@gmail.com*
 
 
 ---
@@ -42,7 +46,7 @@
 ## 🌐 Réseaux sociaux
 
 <div align="left">
-    <a href="https://www.thearms.fr" target="_blank"><img src="https://www.thearms.fr/container/images/logo_arms.jpg" alt="The Arms" height="50"/></a>
+    <a href="https://www.thearms.fr" target="_blank"><img src="https://www.thearms.fr/file/logo/arms" alt="The Arms" height="50"/></a>
     <a href="https://www.youtube.com//@The_Arms" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Principal" height="50"/></a>
     <a href="https://www.youtube.com//@The_Arms2" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Secondaire" height="50"/></a>
     <a href="https://www.youtube.com/@The_Arms3" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Secondaire" height="50"/></a>
@@ -58,7 +62,11 @@
 
 ## 📊 Statistiques GitHub
 
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ArmsYT&theme=dracula&border_radius=20&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=250"/>
+</div>
+
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArmsYT&show_icons=true&count_private=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmsYT&hide_border=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ArmsYT&show_icons=true&count_private=true&hide_border=true&theme=dracula&locale=fr" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmsYT&show_icons=true&theme=dracula&locale=fr&hide_border=true&langs_count=8"/ >
 </div>
