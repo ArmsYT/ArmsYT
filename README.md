@@ -15,7 +15,7 @@
 
 </br>
 
-<img src="https://thearms.fr/file/hitsugaya_run" width=330 align="left">
+<img src="https://thearms.fr/file/ichigo-stand.gif" width=330 align="left">
 <div align="center">
 
 **Who Am I?**
@@ -74,7 +74,7 @@ Today, I continue to grow as a self-taught developer, exploring modern tools and
 <br/>
 
 <div align="center">
-    <a href="https://www.thearms.fr" target="_blank"><img src="https://www.thearms.fr/file/logo/arms" alt="The Arms" height="50"/></a>
+    <a href="https://www.thearms.fr" target="_blank"><img src="https://thearms.fr/file/arms.jpg" alt="The Arms" height="50"/></a>
     <a href="https://www.youtube.com//@The_Arms" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Principal" height="50"/></a>
     <a href="https://www.youtube.com//@The_Arms2" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Secondaire" height="50"/></a>
     <a href="https://www.youtube.com/@The_Arms3" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Secondaire" height="50"/></a>
@@ -87,23 +87,5 @@ Today, I continue to grow as a self-taught developer, exploring modern tools and
 </div>
 <br/>
 
-
-<!-- My Best Repositories -->
-<div align="center">
-  <h3> My Best Repositories</h3></br>
-</div>
-
-
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/ArmsYT/string-generator">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=ArmsYT&repo=string-generator&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-    <a href="https://github.com/ArmsYT/qr-code-generator">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=ArmsYT&repo=qr-code-generator&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-</div>
-</br>
 
 <p align="center"><img  src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer" width="100%"/></p>
