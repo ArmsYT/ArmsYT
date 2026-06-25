@@ -74,7 +74,7 @@ Today, I continue to grow as a self-taught developer, exploring modern tools and
 <br/>
 
 <div align="center">
-    <a href="https://www.thearms.fr" target="_blank"><img src="https://thearms.fr/file/arms.jpg" alt="The Arms" height="50"/></a>
+    <a href="https://www.thearms.fr" target="_blank"><img src="https://thearms.fr/file/logo-arms.jpg" alt="The Arms" height="50"/></a>
     <a href="https://www.youtube.com//@The_Arms" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Principal" height="50"/></a>
     <a href="https://www.youtube.com//@The_Arms2" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Secondaire" height="50"/></a>
     <a href="https://www.youtube.com/@The_Arms3" target="_blank"><img src="https://img.icons8.com/?size=256&id=19318&format=png" alt="YouTube Secondaire" height="50"/></a>
